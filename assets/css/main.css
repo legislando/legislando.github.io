@@ -1177,8 +1177,7 @@
 		justify-content: center;
 		padding: 8em 4em 6em 4em;
 		min-height: 60vh;
-		background-image: url("../../images/bannerint.jpg");
-		background-position: center;
+				background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
 		border-top: 0;
